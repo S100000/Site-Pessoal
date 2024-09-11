@@ -15,6 +15,27 @@ p{
     height: 150px;
     border: 5px solid #AF5DCB;
     border-radius: 50%;
+    margin-top: 2%;
+}
+
+.imgQuadrada{
+    width: 300px;
+    height: 150px;
+    border: 5px solid #AF5DCB;
+    border-radius: 15%;
+    margin-top: 0.5%;
+}
+.imgQuadradaGrande{
+    width: 400px;
+    height: 300px;
+    border-radius: 5%;
+    margin-bottom: 10%;
+}
+.secColor{
+    background-color: #60127a;
+    width: 350px;
+    height: 100%;
+    border-radius: 5%;
 }
 nav {
     background-color: #58256A;
