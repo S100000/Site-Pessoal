@@ -1,19 +1,31 @@
+body{
+    color: #AF5DCB;
+    background-color: #381844;
+}
 
+p{
+    color: rgb(190, 162, 196);
+}
+.center{
+    text-align: center;
+}
 
-
-
-
-
+.imgRedonda{
+    width: 150px;
+    height: 150px;
+    border: 5px solid #AF5DCB;
+    border-radius: 50%;
+}
 nav {
-    background-color: #132203;
+    background-color: #58256A;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 
 ul {
-    margin: 0;
-    padding: 0;
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -25,10 +37,10 @@ li {
 
 a {
     text-decoration: none;
-    color: #497b08;
+    color: #AF5DCB;
 }
 
 
 a:hover {
-    color: #6cf106;
+    color: #A2375D;
 }
